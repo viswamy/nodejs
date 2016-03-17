@@ -11,6 +11,9 @@
       "email" : "vswamy@outlook.com"
       },
   "license": "MIT",
-  "homepage": "http://localhost"
-  
+  "homepage": "http://localhost",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/vswamy/nodejs.git"
+}
 }
